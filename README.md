@@ -21,7 +21,7 @@ We are provided data on gold ore extraction and purification in the following cs
 - gold_recovery_test.csv
 - gold_recovery_full.csv
 
-The 87 columns in the original dataset mostly describe concentration levels for various substances at different stages of the refining process, but will not be enumerated here.
+The 87 columns in the original dataset mostly describe concentration levels for various substances at different stages of the refining process, but will not be enumerated here. *Due to upload size limitations, each file was compressed into 7zip archives. Users will need to extract the files and place them in the appropriate directory for usage.*
 
 ## Pertinent Calucations
 The formulas for the calculations are as follows, and additionally detailed in the notebook:
