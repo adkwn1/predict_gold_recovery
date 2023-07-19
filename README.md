@@ -38,7 +38,7 @@ $\text{sMAPE} = {1 \over n} \displaystyle\sum_{i=1}^{n} {{|y_i - \hat{y_i}|} \ov
 
 $\text{Final sMAPE} = 0.25 \times \text{sMAPE(rougher)} + 0.75 \times \text{sMAPE(final)}$
 
-## Required Libraries
+## Requirements
 - pandas
 - numpy
 - plotly.express
